@@ -21,8 +21,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: 'Honkai Star Rail Message Maker',
+      url: 'https://msg.march7th.cn/'
     },
     {
       text: 'GitHub',
@@ -30,7 +30,7 @@ window.Config = {
     },
     {
       text: 'Blog',
-      url: 'https://abo.xyz/'
+      url: 'https://www.march7th.cn/'
     },
   ],
 };
